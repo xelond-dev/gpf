@@ -1,0 +1,7 @@
+  {
+    "repository": "my.xelond.gpf",
+    "packages": {
+        "gpf": "Github Package Manager",
+        "gpfContent": [ "gpf.py" ]
+    }
+}
